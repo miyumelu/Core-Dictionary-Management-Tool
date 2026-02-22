@@ -10,6 +10,8 @@ The form (as you can see) differs from the original Windows Forms. It uses the "
 
 Since XWMS has not yet been extensively tested, bugs and other problems may occur. However, I have not encountered any to date, meaning this application also serves as a test application for my management system.
 
+With the planned update, the design is also changed. How exactly, I still design next to.
+
 ## Compatibility
 
 CDMT is kept as close as possible to a low-level .NET version (.NET 6.0) to ensure compatibility with legacy Windows systems such as Windows 7, 8, and 8.1.
@@ -17,7 +19,7 @@ CDMT is kept as close as possible to a low-level .NET version (.NET 6.0) to ensu
 
 With the creation of MaidNVI, many aspects are updated to .NET 8.0 or higher, which excludes legacy systems.
 
-This is then referred to as the ADK (Avean Development Kit).
+This is then referred to as the ADK (Avean Development Kit) version.
 
 ## News and Updates
 
