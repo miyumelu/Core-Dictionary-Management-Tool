@@ -19,6 +19,12 @@ With the creation of MaidNVI, many aspects are updated to .NET 8.0 or higher, wh
 
 This is then referred to as the ADK (Avean Development Kit).
 
+## News and Updates
+
+I am currently testing the new Light Bar for functionality. Because of that, I thought about using the CDMT. This will result in a second version of the system. This will also be the first insight into the new features of XWMS. In the variant, the design of the "Fintou Design Language" will go to a different design template for XenDesk.
+
+This version of CDMT (CDMT-XenDesk) is, as the name suggests, built for the XenDesk system, which is why it will use the Light Bar. The other variant may also be renamed "CDMT-Windows", which is then for unmodified systems. Also, a "CDMT-Fintou" will be created soon, for Fintou. Everyone will run on the same basis, only that some will have a configuration that uses special libraries (like Light Bar, which is not easy to apply).
+
 ## Future Plans
 
 - Inclusion of LTE (Light-Term Encryption) - Currently in a private development and research phase
