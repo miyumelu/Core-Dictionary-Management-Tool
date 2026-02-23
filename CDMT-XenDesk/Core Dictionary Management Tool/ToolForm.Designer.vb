@@ -62,7 +62,7 @@ Partial Class ToolForm
         File_Tree.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom Or AnchorStyles.Left
         File_Tree.BackColor = Color.FromArgb(CByte(68), CByte(41), CByte(65))
         File_Tree.BorderStyle = BorderStyle.None
-        File_Tree.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        File_Tree.Font = New Font("SF UI Display Light", 12F)
         File_Tree.ForeColor = Color.White
         File_Tree.Location = New Point(0, 80)
         File_Tree.Name = "File_Tree"
@@ -86,7 +86,7 @@ Partial Class ToolForm
         ' 
         Maximize_Button.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         Maximize_Button.AutoSize = True
-        Maximize_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Maximize_Button.Font = New Font("SF UI Display Light", 12F)
         Maximize_Button.ForeColor = Color.White
         Maximize_Button.Location = New Point(882, 10)
         Maximize_Button.Name = "Maximize_Button"
@@ -98,7 +98,7 @@ Partial Class ToolForm
         ' 
         Minimize_Button.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         Minimize_Button.AutoSize = True
-        Minimize_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Minimize_Button.Font = New Font("SF UI Display Light", 12F)
         Minimize_Button.ForeColor = Color.White
         Minimize_Button.Location = New Point(854, 10)
         Minimize_Button.Name = "Minimize_Button"
@@ -110,7 +110,7 @@ Partial Class ToolForm
         ' 
         Close_Button.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         Close_Button.AutoSize = True
-        Close_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Close_Button.Font = New Font("SF UI Display Light", 12F)
         Close_Button.ForeColor = Color.White
         Close_Button.Location = New Point(906, 10)
         Close_Button.Name = "Close_Button"
@@ -121,7 +121,7 @@ Partial Class ToolForm
         ' Form_Label
         ' 
         Form_Label.Anchor = AnchorStyles.Top Or AnchorStyles.Left Or AnchorStyles.Right
-        Form_Label.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Form_Label.Font = New Font("SF UI Display Light", 12F)
         Form_Label.ForeColor = Color.White
         Form_Label.Location = New Point(0, 10)
         Form_Label.Name = "Form_Label"
@@ -133,7 +133,7 @@ Partial Class ToolForm
         ' Object_Label
         ' 
         Object_Label.AutoSize = True
-        Object_Label.Font = New Font("SF UI Display Light", 27.75F, FontStyle.Regular, GraphicsUnit.Point)
+        Object_Label.Font = New Font("SF UI Display Light", 27.75F)
         Object_Label.ForeColor = Color.White
         Object_Label.Location = New Point(214, 83)
         Object_Label.Name = "Object_Label"
@@ -144,7 +144,7 @@ Partial Class ToolForm
         ' Type_Label
         ' 
         Type_Label.AutoSize = True
-        Type_Label.Font = New Font("SF UI Display Light", 14.25F, FontStyle.Regular, GraphicsUnit.Point)
+        Type_Label.Font = New Font("SF UI Display Light", 14.25F)
         Type_Label.ForeColor = Color.FromArgb(CByte(191), CByte(102), CByte(181))
         Type_Label.Location = New Point(220, 126)
         Type_Label.Name = "Type_Label"
@@ -157,7 +157,7 @@ Partial Class ToolForm
         Content_Box.Anchor = AnchorStyles.Top Or AnchorStyles.Bottom Or AnchorStyles.Left Or AnchorStyles.Right
         Content_Box.BackColor = Color.FromArgb(CByte(68), CByte(41), CByte(65))
         Content_Box.BorderStyle = BorderStyle.None
-        Content_Box.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Content_Box.Font = New Font("SF UI Display Light", 12F)
         Content_Box.ForeColor = Color.White
         Content_Box.Location = New Point(230, 170)
         Content_Box.Name = "Content_Box"
@@ -171,7 +171,7 @@ Partial Class ToolForm
         Option_Bar.AutoSize = False
         Option_Bar.BackColor = Color.FromArgb(CByte(55), CByte(40), CByte(52))
         Option_Bar.Dock = DockStyle.None
-        Option_Bar.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Option_Bar.Font = New Font("SF UI Display Light", 12F)
         Option_Bar.Items.AddRange(New ToolStripItem() {Tree_Menu, File_Menu, LTE_Button, ToolStripMenuItem1})
         Option_Bar.Location = New Point(0, 40)
         Option_Bar.Name = "Option_Bar"
@@ -278,7 +278,7 @@ Partial Class ToolForm
         GetDataContent_Button.BackColor = Color.FromArgb(CByte(68), CByte(41), CByte(65))
         GetDataContent_Button.FlatAppearance.BorderSize = 0
         GetDataContent_Button.FlatStyle = FlatStyle.Flat
-        GetDataContent_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        GetDataContent_Button.Font = New Font("SF UI Display Light", 12F)
         GetDataContent_Button.ForeColor = Color.FromArgb(CByte(215), CByte(109), CByte(204))
         GetDataContent_Button.Location = New Point(0, 510)
         GetDataContent_Button.Name = "GetDataContent_Button"
@@ -292,7 +292,7 @@ Partial Class ToolForm
         QuickSave_Button.Anchor = AnchorStyles.Bottom Or AnchorStyles.Right
         QuickSave_Button.BackColor = Color.FromArgb(CByte(55), CByte(40), CByte(52))
         QuickSave_Button.FlatStyle = FlatStyle.Flat
-        QuickSave_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        QuickSave_Button.Font = New Font("SF UI Display Light", 12F)
         QuickSave_Button.ForeColor = Color.FromArgb(CByte(215), CByte(109), CByte(204))
         QuickSave_Button.Location = New Point(720, 495)
         QuickSave_Button.Name = "QuickSave_Button"
@@ -304,7 +304,7 @@ Partial Class ToolForm
         ' SizeInfo_Label
         ' 
         SizeInfo_Label.Anchor = AnchorStyles.Top Or AnchorStyles.Right
-        SizeInfo_Label.Font = New Font("SF UI Display Light", 14.25F, FontStyle.Regular, GraphicsUnit.Point)
+        SizeInfo_Label.Font = New Font("SF UI Display Light", 14.25F)
         SizeInfo_Label.ForeColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
         SizeInfo_Label.Location = New Point(647, 95)
         SizeInfo_Label.Name = "SizeInfo_Label"
@@ -316,7 +316,7 @@ Partial Class ToolForm
         ' Date_Label
         ' 
         Date_Label.Anchor = AnchorStyles.Top Or AnchorStyles.Right
-        Date_Label.Font = New Font("SF UI Display Light", 14.25F, FontStyle.Regular, GraphicsUnit.Point)
+        Date_Label.Font = New Font("SF UI Display Light", 14.25F)
         Date_Label.ForeColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
         Date_Label.Location = New Point(647, 119)
         Date_Label.Name = "Date_Label"
@@ -330,7 +330,7 @@ Partial Class ToolForm
         Rename_Button.Anchor = AnchorStyles.Bottom Or AnchorStyles.Right
         Rename_Button.BackColor = Color.FromArgb(CByte(55), CByte(40), CByte(52))
         Rename_Button.FlatStyle = FlatStyle.Flat
-        Rename_Button.Font = New Font("SF UI Display Light", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        Rename_Button.Font = New Font("SF UI Display Light", 12F)
         Rename_Button.ForeColor = Color.FromArgb(CByte(215), CByte(109), CByte(204))
         Rename_Button.Location = New Point(510, 495)
         Rename_Button.Name = "Rename_Button"
@@ -362,7 +362,7 @@ Partial Class ToolForm
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         MainMenuStrip = Option_Bar
         Name = "ToolForm"
-        Text = "ToolForm"
+        Text = "AXP - CDMT"
         Window_Panel.ResumeLayout(False)
         Window_Panel.PerformLayout()
         Option_Bar.ResumeLayout(False)

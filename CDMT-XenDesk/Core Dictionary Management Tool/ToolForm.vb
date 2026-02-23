@@ -29,6 +29,7 @@ Public Class ToolForm
         drag.SetForcedEdges(True)
         drag.RegisterResizer()
 
+
         _currentTreeRoot = xela.AutoTree(File_Tree, Main.ObjectLevel.Root)
         LoadTree(_currentTreeRoot)
     End Sub

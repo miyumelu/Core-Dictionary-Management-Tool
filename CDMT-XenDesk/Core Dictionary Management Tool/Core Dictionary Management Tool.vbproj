@@ -32,8 +32,9 @@
       <HintPath>..\..\..\neXt-Motion-Engine\neXt Motion Engine\neXt Motion Engine\bin\Debug\net6.0-windows\neXt Motion Engine.dll</HintPath>
     </Reference>
     <Reference Include="neXt Window Managment System">
-      <HintPath>..\..\..\neXt-Window-Managment-System\neXt Window Managment System\neXt Window Managment System\bin\Debug\net6.0-windows\neXt Window Managment System.dll</HintPath>
-    </Reference>
+		<HintPath>C:\Users\deniz\Documents\GitHub\neXt-Window-Managment-System\neXt Window Managment System\neXt Window Managment System\bin\Debug\net6.0-windows\neXt Window Managment System.dll</HintPath>
+		<Private>True</Private>
+	</Reference>
   </ItemGroup>
 
   <ItemGroup>

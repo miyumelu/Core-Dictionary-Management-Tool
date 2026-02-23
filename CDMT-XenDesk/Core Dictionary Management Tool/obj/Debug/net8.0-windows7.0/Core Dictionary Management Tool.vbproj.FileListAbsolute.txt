@@ -9,12 +9,10 @@ C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Cor
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\bin\Debug\net8.0-windows7.0\neXt Window Managment System.dll
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\bin\Debug\net8.0-windows7.0\Light Bar.pdb
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\bin\Debug\net8.0-windows7.0\neXt Motion Engine.pdb
-C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\bin\Debug\net8.0-windows7.0\neXt Window Managment System.pdb
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.vbproj.AssemblyReference.cache
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core_Dictionary_Management_Tool.ConvertTool.resources
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core_Dictionary_Management_Tool.CreateTool.resources
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core_Dictionary_Management_Tool.RenameTool.resources
-C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core_Dictionary_Management_Tool.ToolForm.resources
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.vbproj.GenerateResource.cache
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.AssemblyInfoInputs.cache
@@ -27,3 +25,5 @@ C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Cor
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.pdb
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core Dictionary Management Tool.genruntimeconfig.cache
 C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\ref\Core Dictionary Management Tool.dll
+C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\bin\Debug\net8.0-windows7.0\neXt Window Managment System.pdb
+C:\Users\deniz\Documents\GitHub\Core-Dictionary-Management-Tool\CDMT-XenDesk\Core Dictionary Management Tool\obj\Debug\net8.0-windows7.0\Core_Dictionary_Management_Tool.ToolForm.resources
