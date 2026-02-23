@@ -14,12 +14,17 @@ With the planned update, the design is also changed. How exactly, I still design
 
 ## Compatibility
 
-CDMT is kept as close as possible to a low-level .NET version (.NET 6.0) to ensure compatibility with legacy Windows systems such as Windows 7, 8, and 8.1.
+CDMT-Windows is kept as close as possible to a low-level .NET version (.NET 6.0) to ensure compatibility with legacy Windows systems such as Windows 7, 8, and 8.1.
 
+CDMT-XenDesk needs the minimum version of . NET 8.0 instead of used to . NET 6.0. This ensures safety and easier maintenance.
 
 With the creation of MaidNVI, many aspects are updated to .NET 8.0 or higher, which excludes legacy systems.
 
 This is then referred to as the ADK (Avean Development Kit) version.
+
+## Current Status
+
+Currently, the Windows version of CDMT is considered obsolete and will not be maintained for the time being. The new XenDesk variant offers an improved uniform UI, which will be used as a basis for other UI. I have uploaded the first test versions, but they still have to be linked to the proper libraries.
 
 ## News and Updates
 
