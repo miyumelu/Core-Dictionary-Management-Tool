@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <RootNamespace>Core_Dictionary_Management_Tool</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>CDMT-Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="CDMT-Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Core Dictionary Module">
+		<HintPath>C:\KAVN\System\libraries.arc\Core Dictionary Module.dll</HintPath>
+		<Private>True</Private>
+	</Reference>
+    <Reference Include="Light Bar">
+      <HintPath>..\..\..\..\..\Desktop\Smart Strip\Light Bar\Light Bar\bin\Debug\net8.0-windows\Light Bar.dll</HintPath>
+    </Reference>
+    <Reference Include="neXt Motion Engine">
+      <HintPath>..\..\..\neXt-Motion-Engine\neXt Motion Engine\neXt Motion Engine\bin\Debug\net6.0-windows\neXt Motion Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="neXt Window Managment System">
+      <HintPath>..\..\..\neXt-Window-Managment-System\neXt Window Managment System\neXt Window Managment System\bin\Debug\net6.0-windows\neXt Window Managment System.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
