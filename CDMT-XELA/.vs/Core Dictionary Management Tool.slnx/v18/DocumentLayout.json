@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\toolform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\toolform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\converttool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\converttool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\toolform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\toolform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\converttool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\converttool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\createtool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\createtool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\motions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\motions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\createtool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\createtool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\renametool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\renametool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\renametool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\renametool.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|c:\\users\\deniz\\desktop\\core dictionary management tool\\core dictionary management tool\\core dictionary management tool.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D0FE0E4-A75D-5681-998E-7BE069A104C9}|Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj|solutionrelative:core dictionary management tool\\core dictionary management tool.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertTool.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ConvertTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\ConvertTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ConvertTool.vb [Entwurf]",
+              "RelativeToolTip": "Core Dictionary Management Tool\\ConvertTool.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:47.449Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTool.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\CreateTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\CreateTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\CreateTool.vb [Entwurf]",
+              "RelativeToolTip": "Core Dictionary Management Tool\\CreateTool.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:33.548Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertTool.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ConvertTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\ConvertTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ConvertTool.vb",
+              "RelativeToolTip": "Core Dictionary Management Tool\\ConvertTool.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:11.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToolForm.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ToolForm.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\ToolForm.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ToolForm.vb [Entwurf]",
+              "RelativeToolTip": "Core Dictionary Management Tool\\ToolForm.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-12T23:22:03.886Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToolForm.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ToolForm.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\ToolForm.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\ToolForm.vb",
+              "RelativeToolTip": "Core Dictionary Management Tool\\ToolForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-12T23:22:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RenameTool.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\RenameTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\RenameTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\RenameTool.vb",
+              "RelativeToolTip": "Core Dictionary Management Tool\\RenameTool.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:25.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTool.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\CreateTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\CreateTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\CreateTool.vb",
+              "RelativeToolTip": "Core Dictionary Management Tool\\CreateTool.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:34.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RenameTool.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\RenameTool.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\RenameTool.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\RenameTool.vb [Entwurf]",
+              "RelativeToolTip": "Core Dictionary Management Tool\\RenameTool.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:53:24.466Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motions.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Motions.vb",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\Motions.vb",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Motions.vb",
+              "RelativeToolTip": "Core Dictionary Management Tool\\Motions.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-24T15:52:27.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Core Dictionary Management Tool.vbproj",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+              "RelativeDocumentMoniker": "Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+              "RelativeToolTip": "Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-01-24T15:45:44.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

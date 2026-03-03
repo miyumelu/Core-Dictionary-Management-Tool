@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Core Dictionary Management Tool/1.0.0": {
+        "dependencies": {
+          "Core Dictionary Module": "0.2.1.0",
+          "neXt Motion Engine": "1.0.0.0",
+          "neXt Window Managment System": "0.1.2.0"
+        },
+        "runtime": {
+          "Core Dictionary Management Tool.dll": {}
+        }
+      },
+      "Core Dictionary Module/0.2.1.0": {
+        "runtime": {
+          "Core Dictionary Module.dll": {
+            "assemblyVersion": "0.2.1.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
+      },
+      "neXt Motion Engine/1.0.0.0": {
+        "runtime": {
+          "neXt Motion Engine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "neXt Window Managment System/0.1.2.0": {
+        "runtime": {
+          "neXt Window Managment System.dll": {
+            "assemblyVersion": "0.1.2.0",
+            "fileVersion": "0.3.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core Dictionary Management Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core Dictionary Module/0.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "neXt Motion Engine/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "neXt Window Managment System/0.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
