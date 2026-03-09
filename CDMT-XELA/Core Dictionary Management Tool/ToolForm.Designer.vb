@@ -63,7 +63,7 @@ Partial Class ToolForm
         File_Tree.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         File_Tree.Location = New Point(0, 80)
         File_Tree.Name = "File_Tree"
-        File_Tree.Size = New Size(390, 1040)
+        File_Tree.Size = New Size(390, 800)
         File_Tree.TabIndex = 0
         ' 
         ' Object_Label
@@ -97,7 +97,7 @@ Partial Class ToolForm
         Content_Box.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Content_Box.Location = New Point(410, 250)
         Content_Box.Name = "Content_Box"
-        Content_Box.Size = New Size(1360, 820)
+        Content_Box.Size = New Size(1000, 580)
         Content_Box.TabIndex = 4
         Content_Box.Text = "Content"
         ' 
@@ -111,12 +111,13 @@ Partial Class ToolForm
         Option_Bar.Items.AddRange(New ToolStripItem() {Tree_Menu, File_Menu, LTE_Button, ToolStripMenuItem1})
         Option_Bar.Location = New Point(0, 0)
         Option_Bar.Name = "Option_Bar"
-        Option_Bar.Size = New Size(1712, 80)
+        Option_Bar.Size = New Size(1057, 80)
         Option_Bar.TabIndex = 5
         Option_Bar.Text = "MenuStrip1"
         ' 
         ' Tree_Menu
         ' 
+        Tree_Menu.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
         Tree_Menu.DropDownItems.AddRange(New ToolStripItem() {SystemTreeToolStripMenuItem, MTree_Button, Refresh_Button})
         Tree_Menu.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Tree_Menu.Name = "Tree_Menu"
@@ -125,43 +126,56 @@ Partial Class ToolForm
         ' 
         ' SystemTreeToolStripMenuItem
         ' 
+        SystemTreeToolStripMenuItem.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
         SystemTreeToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {SA_Button, SE_Button, R_Button})
+        SystemTreeToolStripMenuItem.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         SystemTreeToolStripMenuItem.Name = "SystemTreeToolStripMenuItem"
         SystemTreeToolStripMenuItem.Size = New Size(361, 56)
         SystemTreeToolStripMenuItem.Text = "System Tree"
         ' 
         ' SA_Button
         ' 
+        SA_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        SA_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         SA_Button.Name = "SA_Button"
         SA_Button.Size = New Size(472, 56)
         SA_Button.Text = "System Application"
         ' 
         ' SE_Button
         ' 
+        SE_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        SE_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         SE_Button.Name = "SE_Button"
         SE_Button.Size = New Size(472, 56)
         SE_Button.Text = "System Extention"
         ' 
         ' R_Button
         ' 
+        R_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        R_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         R_Button.Name = "R_Button"
         R_Button.Size = New Size(472, 56)
         R_Button.Text = "Root"
         ' 
         ' MTree_Button
         ' 
+        MTree_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        MTree_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         MTree_Button.Name = "MTree_Button"
         MTree_Button.Size = New Size(361, 56)
         MTree_Button.Text = "Manual Tree"
         ' 
         ' Refresh_Button
         ' 
+        Refresh_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        Refresh_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Refresh_Button.Name = "Refresh_Button"
         Refresh_Button.Size = New Size(361, 56)
         Refresh_Button.Text = "Refresh Tree"
         ' 
         ' File_Menu
         ' 
+        File_Menu.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
         File_Menu.DropDownItems.AddRange(New ToolStripItem() {Create_Button, Convert_Button, Delete_Button})
         File_Menu.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         File_Menu.Name = "File_Menu"
@@ -170,18 +184,24 @@ Partial Class ToolForm
         ' 
         ' Create_Button
         ' 
+        Create_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        Create_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Create_Button.Name = "Create_Button"
         Create_Button.Size = New Size(461, 56)
         Create_Button.Text = "Create New Object"
         ' 
         ' Convert_Button
         ' 
+        Convert_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        Convert_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Convert_Button.Name = "Convert_Button"
         Convert_Button.Size = New Size(461, 56)
         Convert_Button.Text = "Convert Object"
         ' 
         ' Delete_Button
         ' 
+        Delete_Button.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
+        Delete_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         Delete_Button.Name = "Delete_Button"
         Delete_Button.Size = New Size(461, 56)
         Delete_Button.Text = "Delete Object"
@@ -204,7 +224,7 @@ Partial Class ToolForm
         BoxBorder.BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
         BoxBorder.Location = New Point(403, 243)
         BoxBorder.Name = "BoxBorder"
-        BoxBorder.Size = New Size(1374, 834)
+        BoxBorder.Size = New Size(1014, 594)
         BoxBorder.TabIndex = 6
         BoxBorder.TabStop = False
         ' 
@@ -216,7 +236,7 @@ Partial Class ToolForm
         GetDataContent_Button.FlatStyle = FlatStyle.Flat
         GetDataContent_Button.Font = New Font("LCD", 36F, FontStyle.Regular, GraphicsUnit.Point)
         GetDataContent_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        GetDataContent_Button.Location = New Point(0, 1120)
+        GetDataContent_Button.Location = New Point(0, 880)
         GetDataContent_Button.Name = "GetDataContent_Button"
         GetDataContent_Button.Size = New Size(390, 80)
         GetDataContent_Button.TabIndex = 7
@@ -231,7 +251,7 @@ Partial Class ToolForm
         QuickSave_Button.FlatStyle = FlatStyle.Flat
         QuickSave_Button.Font = New Font("LCD", 36F, FontStyle.Regular, GraphicsUnit.Point)
         QuickSave_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        QuickSave_Button.Location = New Point(1454, 1101)
+        QuickSave_Button.Location = New Point(1094, 861)
         QuickSave_Button.Name = "QuickSave_Button"
         QuickSave_Button.Size = New Size(326, 84)
         QuickSave_Button.TabIndex = 8
@@ -243,7 +263,7 @@ Partial Class ToolForm
         SizeInfo_Label.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         SizeInfo_Label.Font = New Font("LCD", 27.75F, FontStyle.Regular, GraphicsUnit.Point)
         SizeInfo_Label.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        SizeInfo_Label.Location = New Point(1313, 118)
+        SizeInfo_Label.Location = New Point(953, 118)
         SizeInfo_Label.Name = "SizeInfo_Label"
         SizeInfo_Label.Size = New Size(464, 41)
         SizeInfo_Label.TabIndex = 9
@@ -255,7 +275,7 @@ Partial Class ToolForm
         Date_Label.Anchor = AnchorStyles.Top Or AnchorStyles.Right
         Date_Label.Font = New Font("LCD", 27.75F, FontStyle.Regular, GraphicsUnit.Point)
         Date_Label.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        Date_Label.Location = New Point(1313, 161)
+        Date_Label.Location = New Point(953, 161)
         Date_Label.Name = "Date_Label"
         Date_Label.Size = New Size(464, 41)
         Date_Label.TabIndex = 10
@@ -270,7 +290,7 @@ Partial Class ToolForm
         Rename_Button.FlatStyle = FlatStyle.Flat
         Rename_Button.Font = New Font("LCD", 36F, FontStyle.Regular, GraphicsUnit.Point)
         Rename_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        Rename_Button.Location = New Point(1122, 1101)
+        Rename_Button.Location = New Point(762, 861)
         Rename_Button.Name = "Rename_Button"
         Rename_Button.Size = New Size(326, 84)
         Rename_Button.TabIndex = 11
@@ -283,7 +303,7 @@ Partial Class ToolForm
         Close_Button.AutoSize = True
         Close_Button.Font = New Font("LCD", 36F, FontStyle.Regular, GraphicsUnit.Point)
         Close_Button.ForeColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
-        Close_Button.Location = New Point(1737, 16)
+        Close_Button.Location = New Point(1377, 16)
         Close_Button.Name = "Close_Button"
         Close_Button.Size = New Size(42, 52)
         Close_Button.TabIndex = 7
@@ -295,7 +315,7 @@ Partial Class ToolForm
         PictureBox1.BackColor = Color.FromArgb(CByte(0), CByte(240), CByte(240))
         PictureBox1.Location = New Point(400, 240)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(1380, 840)
+        PictureBox1.Size = New Size(1020, 600)
         PictureBox1.TabIndex = 12
         PictureBox1.TabStop = False
         ' 
@@ -304,7 +324,7 @@ Partial Class ToolForm
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(0), CByte(5), CByte(96))
-        ClientSize = New Size(1800, 1200)
+        ClientSize = New Size(1440, 960)
         Controls.Add(Close_Button)
         Controls.Add(Rename_Button)
         Controls.Add(Date_Label)

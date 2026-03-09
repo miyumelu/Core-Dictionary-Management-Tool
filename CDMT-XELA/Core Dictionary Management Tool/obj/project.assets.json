@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\deniz\\.nuget\\packages\\": {}
+    "C:\\Users\\Kaan Divrikli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+      "projectUniqueName": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Core-Dictionary-Management-Tool\\CDMT-XELA\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
       "projectName": "Core Dictionary Management Tool",
-      "projectPath": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
-      "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\Desktop\\Core Dictionary Management Tool\\Core Dictionary Management Tool\\obj\\",
+      "projectPath": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Core-Dictionary-Management-Tool\\CDMT-XELA\\Core Dictionary Management Tool\\Core Dictionary Management Tool.vbproj",
+      "packagesPath": "C:\\Users\\Kaan Divrikli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Core-Dictionary-Management-Tool\\CDMT-XELA\\Core Dictionary Management Tool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kaan Divrikli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -47,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -71,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119\\RuntimeIdentifierGraph.json"
       }
     }
   }
