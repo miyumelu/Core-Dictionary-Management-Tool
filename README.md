@@ -35,8 +35,11 @@ The new XenDesk variant has stronger interventions in the window system and can 
 I am currently testing the new Light Bar for functionality. Because of that, I thought about using the CDMT. This will result in a second version of the system. This will also be the first insight into the new features of XWMS. In the variant, the design of the "Fintou Design Language" will go to a different design template for XenDesk.
 
 This version of CDMT (CDMT-XenDesk) is, as the name suggests, built for the XenDesk system, which is why it will use the Light Bar. 
+
 The second version is "CDMT-Windows", which is the legacy variant, which is currently not supported. This has only a simple window management and is therefore the most stable version. 
+
 The latest version is "CDMT-XELA". The version is specially created for XELA systems. It offers a more touch-friendly input and has no XWMS. The design is also kept simple here to achieve a uniform design language. . 
+
 Also, a "CDMT-Fintou" will be created soon, for Fintou. Everyone will run on the same basis, only that some will have a configuration that uses special libraries (like Light Bar, which is not easy to apply).
 
 ## Future Plans
