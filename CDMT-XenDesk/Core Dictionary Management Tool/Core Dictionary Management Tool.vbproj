@@ -26,7 +26,7 @@
 		<Private>True</Private>
 	</Reference>
     <Reference Include="Light Bar">
-      <HintPath>..\..\..\..\..\Desktop\Smart Strip\Light Bar\Light Bar\bin\Debug\net8.0-windows\Light Bar.dll</HintPath>
+      <HintPath>..\..\..\Light-Bar\Light Bar\Light Bar\bin\Debug\net8.0-windows\Light Bar.dll</HintPath>
     </Reference>
     <Reference Include="neXt Motion Engine">
       <HintPath>..\..\..\neXt-Motion-Engine\neXt Motion Engine\neXt Motion Engine\bin\Debug\net6.0-windows\neXt Motion Engine.dll</HintPath>
